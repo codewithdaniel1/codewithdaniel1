@@ -2,7 +2,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/d-p-) 
 
-Hi my name is Daniel, Creator of [Cyber Actor Atlas](https://codewithdaniel1.github.io/CyberActorAtlas/)!
+Hi my name is Daniel, Creator of [Cyber Actor Atlas](https://cyberactoratlas.pages.dev/)!
 
 I created Cyber Actor Atlas as an open-source map and downloadable dataset for exploring the publicly reported origins of cyber actors. It is designed as a lightweight research and education resource for people who want a clearer geographic view of how named actors are described in public reporting.
 
