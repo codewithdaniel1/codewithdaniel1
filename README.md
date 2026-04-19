@@ -4,12 +4,12 @@
 
 Hi my name is Daniel, Creator of [Cyber Actor Atlas](https://cyberactoratlas.pages.dev/) and [NowEDA](https://pypi.org/project/noweda/)
 
-## Cyber Actor Atlas
+## [Cyber Actor Atlas](https://cyberactoratlas.pages.dev/)
 I created Cyber Actor Atlas as an open-source map and downloadable dataset for exploring the publicly reported origins of cyber actors. It is designed as a lightweight research and education resource for people who want a clearer geographic view of how named actors are described in public reporting.
 
 The atlas brings together cybercrime groups, financial fraud actors, crypto-crime actors, darknet market operators, hacktivist collectives, state-linked theft groups, access brokers, and a limited set of defensive or white-hat organizations for context.
 
-## NowEDA
+## [NowEDA](https://pypi.org/project/noweda/)
 I created NowEDA (Python Library) as an open-source data analysis tool designed to make exploratory data analysis simple and accessible. Many software engineers and cybersecurity analysts work with data every day but are not specialists in data analysis, which can make initial exploration slow and inconsistent.
 
 NowEDA provides a lightweight interface built on top of DataFrames, allowing users to quickly load datasets and generate summaries, insights, and data quality scores. It also includes a modular plugin system to detect patterns such as missing data, outliers, encoded fields, and potential sensitive information, helping users understand their data faster with minimal effort.
