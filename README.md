@@ -2,9 +2,12 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/d-p-) 
 
-Hi, I'm Daniel — Creator of  
-![Cyber Actor Atlas](https://img.shields.io/badge/Cyber_Actor_Atlas-7C3AED?style=for-the-badge&logo=databricks&logoColor=white)
-![NowEDA](https://img.shields.io/badge/NowEDA-14B8A6?style=for-the-badge&logo=python&logoColor=white)
+<p>
+  Hi my name is Daniel, Creator of 
+  <b><span style="background-color:#E9D5FF; color:#5B21B6; padding:2px 6px; border-radius:6px;">Cyber Actor Atlas</span></b>
+  and
+  <b><span style="background-color:#CCFBF1; color:#0F766E; padding:2px 6px; border-radius:6px;">NowEDA</span></b>
+</p>
 
 ## [Cyber Actor Atlas](https://cyberactoratlas.pages.dev/)
 I created Cyber Actor Atlas as an open-source map and downloadable dataset for exploring the publicly reported origins of cyber actors. It is designed as a lightweight research and education resource for people who want a clearer geographic view of how named actors are described in public reporting.
