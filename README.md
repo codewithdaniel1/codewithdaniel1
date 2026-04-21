@@ -10,6 +10,7 @@
   <a href="https://cyberactoratlas.pages.dev/" style="text-decoration:none; outline:none;">
     <img src="https://img.shields.io/badge/Cyber_Actor_Atlas-7C3AED?style=flat&logo=databricks&logoColor=white" height="50"/>
   </a>
+  and 
   <a href="https://pypi.org/project/noweda/" style="text-decoration:none; outline:none;">
     <img src="https://img.shields.io/badge/NowEDA-14B8A6?style=flat&logo=python&logoColor=white" height="50"/>
   </a>
