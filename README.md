@@ -5,8 +5,12 @@
 <h3 align="center">Hi, I'm Daniel! Creator of</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Cyber_Actor_Atlas-7C3AED?style=flat&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/NowEDA-14B8A6?style=flat&logo=python&logoColor=white" />
+  <a href="https://cyberactoratlas.pages.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Cyber_Actor_Atlas-7C3AED?style=flat&logo=databricks&logoColor=white" />
+  </a>
+  <a href="https://pypi.org/project/noweda/" target="_blank">
+    <img src="https://img.shields.io/badge/NowEDA-14B8A6?style=flat&logo=python&logoColor=white" />
+  </a>
 </p>
 
 ## [Cyber Actor Atlas](https://cyberactoratlas.pages.dev/)
