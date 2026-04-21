@@ -2,7 +2,9 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/d-p-) 
 
-Hi my name is Daniel, Creator of  
+## Hi, I'm Daniel  
+
+### Creator of  
 
 ![Cyber Actor Atlas](https://img.shields.io/badge/Cyber_Actor_Atlas-8B5CF6?style=for-the-badge)
 ![NowEDA](https://img.shields.io/badge/NowEDA-14B8A6?style=for-the-badge)
