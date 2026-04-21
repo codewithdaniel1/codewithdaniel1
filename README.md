@@ -2,8 +2,9 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/d-p-) 
 
-<h1 align="center">Hi, I'm Daniel! Creator of</h1>
-
+<h1 align="center" style="border-bottom: none;">
+  Hi, I'm Daniel! Creator of
+</h1>
 <p align="center">
   <a href="https://cyberactoratlas.pages.dev/" style="text-decoration:none; display:inline-block;">
     <span>
