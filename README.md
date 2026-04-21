@@ -2,14 +2,14 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/d-p-) 
 
-<h3 align="center">Hi, I'm Daniel! Creator of</h3>
+<h2 align="center">Hi, I'm Daniel! Creator of</h2>
 
 <p align="center">
-  <a href="https://cyberactoratlas.pages.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Cyber_Actor_Atlas-7C3AED?style=flat&logo=databricks&logoColor=white" />
+  <a href="https://cyberactoratlas.pages.dev/">
+    <img src="https://img.shields.io/badge/Cyber_Actor_Atlas-7C3AED?style=for-the-badge&logo=databricks&logoColor=white" />
   </a>
-  <a href="https://pypi.org/project/noweda/" target="_blank">
-    <img src="https://img.shields.io/badge/NowEDA-14B8A6?style=flat&logo=python&logoColor=white" />
+  <a href="https://pypi.org/project/noweda/">
+    <img src="https://img.shields.io/badge/NowEDA-14B8A6?style=for-the-badge&logo=python&logoColor=white" />
   </a>
 </p>
 
