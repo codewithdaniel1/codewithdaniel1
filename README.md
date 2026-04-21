@@ -4,9 +4,9 @@
 
 <p>
   Hi my name is Daniel, Creator of 
-  <b><span style="color:purple;">Cyber Actor Atlas</span></b>
+  <span style="background-color:#E9D5FF; color:#5B21B6; padding:3px 8px; font-weight:bold; font-size:1.05em; border-radius:6px;">Cyber Actor Atlas</span>
   and
-  <b><span style="color:teal;">NowEDA</span></b>
+  <span style="background-color:#CCFBF1; color:#0F766E; padding:3px 8px; font-weight:bold; font-size:1.05em; border-radius:6px;">NowEDA</span>
 </p>
 
 ## [Cyber Actor Atlas](https://cyberactoratlas.pages.dev/)
