@@ -7,17 +7,13 @@
 </h1>
 
 <p align="center">
-  <span>
-    <a href="https://cyberactoratlas.pages.dev/" style="text-decoration:none;">
-      <img src="https://img.shields.io/badge/Cyber_Actor_Atlas-7C3AED?style=for-the-badge&logo=databricks&logoColor=white" height="55"/>
-    </a>
-  </span>
+  <a href="https://cyberactoratlas.pages.dev/" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Cyber_Actor_Atlas-6D28D9?style=for-the-badge&logo=databricks&logoColor=white" height="55"/>
+  </a>
   &nbsp;&nbsp;
-  <span>
-    <a href="https://pypi.org/project/noweda/" style="text-decoration:none;">
-      <img src="https://img.shields.io/badge/NowEDA-14B8A6?style=for-the-badge&logo=python&logoColor=white" height="55"/>
-    </a>
-  </span>
+  <a href="https://pypi.org/project/noweda/" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/NowEDA-0D9488?style=for-the-badge&logo=python&logoColor=white" height="55"/>
+  </a>
 </p>
 
 ## [Cyber Actor Atlas](https://cyberactoratlas.pages.dev/)
