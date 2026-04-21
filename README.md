@@ -8,11 +8,11 @@
 
 <p align="center">
   <a href="https://cyberactoratlas.pages.dev/" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Cyber_Actor_Atlas-F3F4F6?style=for-the-badge&logo=databricks&logoColor=white" height="55"/>
+    <img src="https://img.shields.io/badge/Cyber_Actor_Atlas-5B21B6?style=for-the-badge&logo=databricks&logoColor=E5E7EB" height="55"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://pypi.org/project/noweda/" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/NowEDA-0D9488?style=for-the-badge&logo=python&logoColor=white" height="55"/>
+    <img src="https://img.shields.io/badge/NowEDA-0F766E?style=for-the-badge&logo=python&logoColor=E5E7EB" height="55"/>
   </a>
 </p>
 
