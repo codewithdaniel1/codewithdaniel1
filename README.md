@@ -1,7 +1,6 @@
 # Hi, I'm Daniel! Creator of
 
-[![Cyber Actor Atlas](https://img.shields.io/badge/Cyber_Actor_Atlas-1E3A8A?style=for-the-badge)](https://cyberactoratlas.pages.dev/)
-[![NowEDA](https://img.shields.io/badge/NowEDA-0F766E?style=for-the-badge)](https://pypi.org/project/noweda/)
+### Cyber Actor Atlas & NowEDA
 
 ## [Cyber Actor Atlas](https://cyberactoratlas.pages.dev/)
 I created Cyber Actor Atlas as an open-source map and downloadable dataset for exploring the publicly reported origins of cyber actors. It is designed as a lightweight research and education resource for people who want a clearer geographic view of how named actors are described in public reporting.
