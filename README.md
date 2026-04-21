@@ -2,14 +2,18 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/d-p-) 
 
-<h1 align="center">Hi, I'm Daniel! Creator of</h2>
+<h1 align="center">Hi, I'm Daniel! Creator of</h1>
 
 <p align="center">
-  <a href="https://cyberactoratlas.pages.dev/" style="text-decoration:none; border:none;">
-    <img src="https://img.shields.io/badge/Cyber_Actor_Atlas-7C3AED?style=flat&logo=databricks&logoColor=white" height="40" style="display:block;" />
+  <a href="https://cyberactoratlas.pages.dev/" style="text-decoration:none; display:inline-block;">
+    <span>
+      <img src="https://img.shields.io/badge/Cyber_Actor_Atlas-7C3AED?style=flat&logo=databricks&logoColor=white" height="40"/>
+    </span>
   </a>
-  <a href="https://pypi.org/project/noweda/" style="text-decoration:none; border:none;">
-    <img src="https://img.shields.io/badge/NowEDA-14B8A6?style=flat&logo=python&logoColor=white" height="40" style="display:block;" />
+  <a href="https://pypi.org/project/noweda/" style="text-decoration:none; display:inline-block;">
+    <span>
+      <img src="https://img.shields.io/badge/NowEDA-14B8A6?style=flat&logo=python&logoColor=white" height="40"/>
+    </span>
   </a>
 </p>
 
