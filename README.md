@@ -5,8 +5,8 @@
 <h3 align="center">Hi, I'm Daniel! Creator of</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Cyber_Actor_Atlas-7C3AED?style=flat&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/NowEDA-14B8A6?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cyber_Actor_Atlas-7C3AED?style=flat-square&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/NowEDA-14B8A6?style=flat-square&logo=python&logoColor=white" />
 </p>
 
 ## [Cyber Actor Atlas](https://cyberactoratlas.pages.dev/)
