@@ -5,9 +5,6 @@
 <h1 align="center" style="border-bottom: none;">
   Hi, I'm Daniel! Creator of
 </h1>
-<h1 align="center" style="border-bottom: none;">
-  Hi, I'm Daniel! Creator of
-</h1>
 
 <p align="center">
   <a href="https://cyberactoratlas.pages.dev/">
