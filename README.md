@@ -12,7 +12,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://pypi.org/project/noweda/" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/NowEDA-0F766E?style=for-the-badge&logo=python&logoColor=E5E7EB" height="55"/>
+    <img src="https://img.shields.io/badge/NowEDA-D1D5DB?style=for-the-badge&logo=python&logoColor=E5E7EB" height="55"/>
   </a>
 </p>
 
