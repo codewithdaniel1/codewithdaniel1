@@ -1,7 +1,3 @@
-
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/d-p-) 
-
 # Hi, I'm Daniel! Creator of
 
 [![Cyber Actor Atlas](https://img.shields.io/badge/Cyber_Actor_Atlas-1E3A8A?style=for-the-badge)](https://cyberactoratlas.pages.dev/)
@@ -23,5 +19,8 @@ NowEDA provides a lightweight interface built on top of DataFrames, allowing use
 
 # GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=codewithdaniel1&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/d-p-) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
