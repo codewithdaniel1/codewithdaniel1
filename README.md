@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://cyberactoratlas.pages.dev/" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Cyber_Actor_Atlas-6D28D9?style=for-the-badge&logo=databricks&logoColor=white" height="55"/>
+    <img src="https://img.shields.io/badge/Cyber_Actor_Atlas-F3F4F6?style=for-the-badge&logo=databricks&logoColor=white" height="55"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://pypi.org/project/noweda/" style="text-decoration:none;">
