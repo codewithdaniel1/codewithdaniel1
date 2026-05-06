@@ -20,4 +20,4 @@ NowEDA provides a lightweight interface built on top of DataFrames, allowing use
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/d-p-) 
 
-<!-- Proudly created with GPRM (https://gprm.itsvg.in)  -->
+<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
