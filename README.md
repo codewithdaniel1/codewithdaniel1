@@ -24,10 +24,10 @@ The graph-based method achieved higher precision and recall while reducing the f
 
 I contribute to open-source Python, data science, and developer tooling projects.
 
-- **conda/conda** — Improved command-line `package_spec` documentation for `conda install` and `conda create`  
+- **conda/conda** — Merged PR improving command-line `package_spec` documentation for `conda install` and `conda create`  
   PR: https://github.com/conda/conda/pull/16465
 
-- **pypi/warehouse** — Updated stale PyPI organization accounts documentation after verifying the issue had no active duplicate PR  
+- **pypi/warehouse** — Merged PR updating stale PyPI organization accounts documentation after verifying the issue had no active duplicate PR  
   PR: https://github.com/pypi/warehouse/pull/20346
 
 - **PyLabRobot/pylabrobot** — Open PRs for thermocycler backend cleanup and thermocycler quickstart documentation  
