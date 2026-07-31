@@ -39,7 +39,7 @@ I contribute to open-source Python, data science, analytics, and cybersecurity p
 - **PyLabRobot/pylabrobot** — Open PRs for thermocycler backend cleanup and thermocycler quickstart documentation  
   PRs: https://github.com/PyLabRobot/pylabrobot/pull/1097, https://github.com/PyLabRobot/pylabrobot/pull/1190
 
-# Research Lab Contributions
+# Research Lab Contributions:
 
 - **NYU OSIRIS Lab** — Contributed to private research lab repositories supporting cybersecurity research, CTF infrastructure, AI evaluation workflows, and internal tooling.
 
