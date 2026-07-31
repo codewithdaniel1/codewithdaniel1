@@ -22,13 +22,16 @@ The graph-based method achieved higher precision and recall while reducing the f
 
 # Open Source Contributions:
 
-I contribute to open-source Python, data science, analytics, and cybersecurity projects.
+I contribute to open-source Python, data science, analytics, cybersecurity, and developer tooling projects.
 
 - **conda/conda** — Merged PR improving command-line `package_spec` documentation for `conda install` and `conda create`  
   PR: https://github.com/conda/conda/pull/16465
 
 - **conda/conda** — Merged PR updating the cheatsheet environment import command for `.yml` files to match the current docs syntax  
   PR: https://github.com/conda/conda/pull/16476
+
+- **conda/conda** — Open PR documenting how to activate conda environments inside bash scripts and mentioning `conda run` as an alternative for single-command execution  
+  PR: https://github.com/conda/conda/pull/16478
 
 - **pypi/warehouse** — Merged PR updating stale PyPI organization accounts documentation after verifying the issue had no active duplicate PR  
   PR: https://github.com/pypi/warehouse/pull/20346
