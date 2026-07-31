@@ -39,6 +39,10 @@ I contribute to open-source Python, data science, analytics, and cybersecurity p
 - **PyLabRobot/pylabrobot** — Open PRs for thermocycler backend cleanup and thermocycler quickstart documentation  
   PRs: https://github.com/PyLabRobot/pylabrobot/pull/1097, https://github.com/PyLabRobot/pylabrobot/pull/1190
 
+# Research Lab Contributions
+
+- **NYU OSIRIS Lab** — Contributed to private research lab repositories supporting cybersecurity research, CTF infrastructure, AI evaluation workflows, and internal tooling.
+
 # GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=codewithdaniel1&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
