@@ -22,13 +22,16 @@ The graph-based method achieved higher precision and recall while reducing the f
 
 # Open Source Contributions:
 
-I contribute to open-source Python, data science, and developer tooling projects.
+I contribute to open-source Python, data science, analytics, and cybersecurity projects.
 
 - **conda/conda** — Merged PR improving command-line `package_spec` documentation for `conda install` and `conda create`  
   PR: https://github.com/conda/conda/pull/16465
 
 - **pypi/warehouse** — Merged PR updating stale PyPI organization accounts documentation after verifying the issue had no active duplicate PR  
   PR: https://github.com/pypi/warehouse/pull/20346
+
+- **apache/superset** — Open PR fixing mixed integer/decimal numeric `IN` filter SQL generation in a major analytics and BI platform  
+  PR: https://github.com/apache/superset/pull/42625
 
 - **OWASP/CheatSheetSeries** — Open PR continuing Phase 1 US English cleanup across security cheat sheets  
   PR: https://github.com/OWASP/CheatSheetSeries/pull/2316
