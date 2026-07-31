@@ -27,7 +27,7 @@ I contribute to open-source Python, data science, analytics, and cybersecurity p
 - **conda/conda** — Merged PR improving command-line `package_spec` documentation for `conda install` and `conda create`  
   PR: https://github.com/conda/conda/pull/16465
 
-- **conda/conda** — Open PR updating the cheatsheet environment import command for `.yml` files to match the current docs syntax  
+- **conda/conda** — Merged PR updating the cheatsheet environment import command for `.yml` files to match the current docs syntax  
   PR: https://github.com/conda/conda/pull/16476
 
 - **pypi/warehouse** — Merged PR updating stale PyPI organization accounts documentation after verifying the issue had no active duplicate PR  
