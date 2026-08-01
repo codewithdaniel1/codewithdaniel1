@@ -45,7 +45,7 @@ I contribute to open-source Python, data science, analytics, cybersecurity, and 
 - **apache/airflow** — Open PR improving logging architecture documentation by describing default Airflow loggers and linking to existing task logging and advanced logging docs  
   PR: https://github.com/apache/airflow/pull/70842
 
-- **osirislab/ctf101** — Open PR improving light mode logo readability with a scoped CSS-only contrast adjustment  
+- **osirislab/ctf101** — Merged PR improving light mode logo readability by adding a dedicated light-mode logo variant while preserving the green prompt symbol  
   PR: https://github.com/osirislab/ctf101/pull/66
 
 - **OWASP/CheatSheetSeries** — Open PR continuing Phase 1 US English cleanup across security cheat sheets  
