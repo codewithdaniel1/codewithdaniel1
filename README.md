@@ -33,6 +33,9 @@ I contribute to open-source Python, data science, analytics, cybersecurity, and 
 - **conda/conda** — Open PR documenting how to activate conda environments inside bash scripts and mentioning `conda run` as an alternative for single-command execution  
   PR: https://github.com/conda/conda/pull/16478
 
+- **jupyterlab/jupyterlab** — Open PR documenting how extension authors can write theme-aware CSS using JupyterLab CSS variables instead of hard-coded colors  
+  PR: https://github.com/jupyterlab/jupyterlab/pull/19230
+
 - **pypi/warehouse** — Merged PR updating stale PyPI organization accounts documentation after verifying the issue had no active duplicate PR  
   PR: https://github.com/pypi/warehouse/pull/20346
 
