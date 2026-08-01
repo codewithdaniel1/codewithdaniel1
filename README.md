@@ -51,6 +51,9 @@ I contribute to open-source Python, data science, analytics, cybersecurity, and 
 - **OWASP/CheatSheetSeries** — Open PR continuing Phase 1 US English cleanup across security cheat sheets  
   PR: https://github.com/OWASP/CheatSheetSeries/pull/2316
 
+- **OpenCTI-Platform/opencti** — Open PR documenting why some STIX cyber observable types support manual multiple creation and why multi-field types such as `Software` should use individual creation or CSV mappers  
+  PR: https://github.com/OpenCTI-Platform/opencti/pull/17460
+
 - **PyLabRobot/pylabrobot** — Open PRs for thermocycler backend cleanup and thermocycler quickstart documentation  
   PRs: https://github.com/PyLabRobot/pylabrobot/pull/1097, https://github.com/PyLabRobot/pylabrobot/pull/1190
 
