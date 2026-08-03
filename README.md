@@ -48,6 +48,9 @@ I contribute to open-source Python, data science, analytics, cybersecurity, and 
 - **pypi/warehouse** — Merged PR updating stale PyPI organization accounts documentation after verifying the issue had no active duplicate PR  
   PR: https://github.com/pypi/warehouse/pull/20346
 
+- **docker/docs** — Open PR removing a misleading restart policy note about “linked containers” from Docker Engine container documentation  
+  PR: https://github.com/docker/docs/pull/25689
+
 - **apache/superset** — Open PR fixing mixed integer/decimal numeric `IN` filter SQL generation in a major analytics and BI platform  
   PR: https://github.com/apache/superset/pull/42625
 
