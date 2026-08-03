@@ -84,7 +84,7 @@ I contribute to open-source Python, data science, analytics, cybersecurity, and 
 # NYU Research Lab Contributions:
 
 - [**NYU OSIRIS Lab**](https://osiris.cyber.nyu.edu) — Contributed to private research lab repositories supporting cybersecurity research, CTF infrastructure, AI evaluation workflows, Official NYU tooling, and internal lab tooling.
-- **NYUSEC** - Contributed to NYU CTF Red Team on [CTF Time](https://ctftime.org/team/439).
+- **NYUSEC Team** - Competitor on the NYU Security CTF Team on [CTF Time](https://ctftime.org/team/439).
 
 # GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=codewithdaniel1&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
