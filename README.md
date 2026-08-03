@@ -78,9 +78,6 @@ I contribute to open-source Python, data science, analytics, cybersecurity, and 
 - **OpenCTI-Platform/opencti** — Open PR documenting ElasticSearch / OpenSearch storage performance guidance, including SSD/NVMe deployment notes and troubleshooting guidance for disk I/O bottlenecks during ingestion  
   PR: https://github.com/OpenCTI-Platform/opencti/pull/17482
 
-- **PyLabRobot/pylabrobot** — Open PRs for thermocycler backend cleanup and thermocycler quickstart documentation  
-  PRs: https://github.com/PyLabRobot/pylabrobot/pull/1097, https://github.com/PyLabRobot/pylabrobot/pull/1190
-
 # Research Lab Contributions:
 
 - [**NYU OSIRIS Lab**](https://osiris.cyber.nyu.edu) — Contributed to private research lab repositories supporting cybersecurity research, CTF infrastructure, AI evaluation workflows, Official NYU tooling, and internal lab tooling.
