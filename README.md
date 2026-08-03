@@ -66,6 +66,9 @@ I contribute to open-source Python, data science, analytics, cybersecurity, and 
 - **OWASP/CheatSheetSeries** — Open PR continuing Phase 1 US English cleanup across security cheat sheets  
   PR: https://github.com/OWASP/CheatSheetSeries/pull/2316
 
+- **elastic/kibana** — Open PR adding a Security Solution API documentation warning about deleting exception lists that are still linked to detection rules  
+  PR: https://github.com/elastic/kibana/pull/282198
+
 - **OpenCTI-Platform/opencti** — Open PR documenting why some STIX cyber observable types support manual multiple creation and why multi-field types such as `Software` should use individual creation or CSV mappers  
   PR: https://github.com/OpenCTI-Platform/opencti/pull/17460
 
