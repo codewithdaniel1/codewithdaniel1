@@ -63,7 +63,7 @@ I contribute to open-source Python, data science, analytics, cybersecurity, and 
 - **osirislab/ctf101** — Merged PR improving light mode logo readability by adding a dedicated light-mode logo variant while preserving the green prompt symbol  
   PR: https://github.com/osirislab/ctf101/pull/66
 
-- **OWASP/CheatSheetSeries** — Open PR continuing Phase 1 US English cleanup across security cheat sheets  
+- **OWASP/CheatSheetSeries** — Merged PR continuing Phase 1 US English cleanup across security cheat sheets  
   PR: https://github.com/OWASP/CheatSheetSeries/pull/2316
 
 - **elastic/kibana** — Open PR adding a Security Solution API documentation warning about deleting exception lists that are still linked to detection rules  
