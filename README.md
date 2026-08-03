@@ -66,6 +66,9 @@ I contribute to open-source Python, data science, analytics, cybersecurity, and 
 - **osirislab/ctf101** — Merged PR improving light mode logo readability by adding a dedicated light-mode logo variant while preserving the green prompt symbol  
   PR: https://github.com/osirislab/ctf101/pull/66
 
+- **osirislab/ctf101** — Open PR adding Google Analytics / GA4 tracking to the MkDocs site with an OSIRIS-provided Measurement ID, local analytics initializer, and README documentation for future maintainers  
+  PR: https://github.com/osirislab/ctf101/pull/70
+  
 - **OWASP/CheatSheetSeries** — Merged PR continuing Phase 1 US English cleanup across security cheat sheets  
   PR: https://github.com/OWASP/CheatSheetSeries/pull/2316
 
