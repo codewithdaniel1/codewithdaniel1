@@ -39,6 +39,9 @@ I contribute to open-source Python, data science, analytics, cybersecurity, and 
 - **conda/conda** — Open PR updating the channels concept page with examples of common public channels, an Anaconda.org reference, RSS section cleanup, and a new local channels section  
   PR: https://github.com/conda/conda/pull/16484
 
+- **conda/conda** — Open PR updating the commands concept page with common conda command examples, command-line help usage, and plugin-provided command guidance  
+  PR: https://github.com/conda/conda/pull/16485
+
 - **jupyterlab/jupyterlab** — Open PR documenting how extension authors can write theme-aware CSS using JupyterLab CSS variables instead of hard-coded colors  
   PR: https://github.com/jupyterlab/jupyterlab/pull/19230
 
