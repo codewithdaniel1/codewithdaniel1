@@ -69,7 +69,7 @@ I contribute to open-source Python, data science, analytics, cybersecurity, and 
 - **elastic/kibana** — Open PR adding a Security Solution API documentation warning about deleting exception lists that are still linked to detection rules  
   PR: https://github.com/elastic/kibana/pull/282198
 
-- **OpenCTI-Platform/opencti** — Open PR documenting why some STIX cyber observable types support manual multiple creation and why multi-field types such as `Software` should use individual creation or CSV mappers  
+- **OpenCTI-Platform/opencti** — Approved PR documenting why some STIX cyber observable types support manual multiple creation and why multi-field types such as `Software` should use individual creation or CSV mappers  
   PR: https://github.com/OpenCTI-Platform/opencti/pull/17460
 
 - **PyLabRobot/pylabrobot** — Open PRs for thermocycler backend cleanup and thermocycler quickstart documentation  
