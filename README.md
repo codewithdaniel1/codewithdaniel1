@@ -81,6 +81,9 @@ I contribute to open-source Python, data science, analytics, cybersecurity, and 
 - **OpenCTI-Platform/opencti** — Open PR documenting ElasticSearch / OpenSearch storage performance guidance, including SSD/NVMe deployment notes and troubleshooting guidance for disk I/O bottlenecks during ingestion  
   PR: https://github.com/OpenCTI-Platform/opencti/pull/17482
 
+- **OpenCTI-Platform/opencti** — Open PR clarifying how OpenCTI uses canonical `Standard STIX ID` values for deduplication and how imported/source STIX IDs may differ for TAXII feeds or external CTI repositories  
+  PR: https://github.com/OpenCTI-Platform/opencti/pull/17483
+
 # NYU Research Lab Contributions:
 
 - [**NYU OSIRIS Lab**](https://osiris.cyber.nyu.edu) — Contributed to private research lab repositories supporting cybersecurity research, CTF infrastructure, AI evaluation workflows, Official NYU tooling, and internal lab tooling.
