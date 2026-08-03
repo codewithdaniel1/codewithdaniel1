@@ -54,6 +54,9 @@ I contribute to open-source Python, data science, analytics, cybersecurity, and 
 - **docker/docs** — Open PR clarifying NVIDIA GPU access documentation by replacing an undefined “single engine” note with clearer standalone Docker Engine scope guidance  
   PR: https://github.com/docker/docs/pull/25690
 
+- **docker/docs** — Open PR clarifying OCI and Docker exporter output modes by documenting `dest` and `tar` behavior with examples for tar archives, `tar=false` directory export, local image-store loading, and saving image layouts to disk  
+  PR: https://github.com/docker/docs/pull/25698
+
 - **apache/superset** — Open PR fixing mixed integer/decimal numeric `IN` filter SQL generation in a major analytics and BI platform  
   PR: https://github.com/apache/superset/pull/42625
 
