@@ -72,6 +72,9 @@ I contribute to open-source Python, data science, analytics, cybersecurity, and 
 - **OpenCTI-Platform/opencti** — Approved PR documenting why some STIX cyber observable types support manual multiple creation and why multi-field types such as `Software` should use individual creation or CSV mappers  
   PR: https://github.com/OpenCTI-Platform/opencti/pull/17460
 
+- **OpenCTI-Platform/opencti** — Open PR documenting ElasticSearch / OpenSearch storage performance guidance, including SSD/NVMe deployment notes and troubleshooting guidance for disk I/O bottlenecks during ingestion  
+  PR: https://github.com/OpenCTI-Platform/opencti/pull/17482
+
 - **PyLabRobot/pylabrobot** — Open PRs for thermocycler backend cleanup and thermocycler quickstart documentation  
   PRs: https://github.com/PyLabRobot/pylabrobot/pull/1097, https://github.com/PyLabRobot/pylabrobot/pull/1190
 
