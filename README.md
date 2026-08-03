@@ -93,4 +93,4 @@ I contribute to open-source Python, data science, analytics, cybersecurity, and 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/d-p-) 
 [![NYU OSIRIS Lab](https://img.shields.io/badge/NYU%20OSIRIS%20Lab-57068C?style=flat&logoColor=white)](https://osiris.cyber.nyu.edu/members/)
 
-<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
+<!-- GPRM (https://gprm.itsvg.in) -->
