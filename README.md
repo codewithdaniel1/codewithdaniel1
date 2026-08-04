@@ -28,7 +28,7 @@ I contribute to open-source projects across Python, data analytics, cybersecurit
   PRs: [#17460](https://github.com/OpenCTI-Platform/opencti/pull/17460) (merged), [#17482](https://github.com/OpenCTI-Platform/opencti/pull/17482) (open), [#17483](https://github.com/OpenCTI-Platform/opencti/pull/17483) (open), [#17484](https://github.com/OpenCTI-Platform/opencti/pull/17484) (open)
 
 - **conda/conda** — Updated Conda documentation across package specifications, environment management, shell activation, authenticated channels, channel concepts, and command-line usage.  
-  PRs: [#16465](https://github.com/conda/conda/pull/16465) (merged), [#16476](https://github.com/conda/conda/pull/16476) (merged), [#16478](https://github.com/conda/conda/pull/16478) (open), [#16483](https://github.com/conda/conda/pull/16483) (open), [#16484](https://github.com/conda/conda/pull/16484) (open), [#16485](https://github.com/conda/conda/pull/16485) (open)
+  PRs: [#16465](https://github.com/conda/conda/pull/16465) (merged), [#16476](https://github.com/conda/conda/pull/16476) (merged), [#16478](https://github.com/conda/conda/pull/16478) (merged), [#16483](https://github.com/conda/conda/pull/16483) (open), [#16484](https://github.com/conda/conda/pull/16484) (open), [#16485](https://github.com/conda/conda/pull/16485) (open)
 
 - **docker/docs** — Clarified Docker documentation related to container restart behavior, NVIDIA GPU access, and OCI and Docker exporter output formats.  
   PRs: [#25689](https://github.com/docker/docs/pull/25689) (open), [#25690](https://github.com/docker/docs/pull/25690) (open), [#25698](https://github.com/docker/docs/pull/25698) (open)
@@ -52,7 +52,7 @@ I contribute to open-source projects across Python, data analytics, cybersecurit
   PR: [#19230](https://github.com/jupyterlab/jupyterlab/pull/19230) (open)
 
 - **OWASP/CheatSheetSeries** — Improved language consistency and US English usage across multiple OWASP security cheat sheets.  
-  PR: [#2316](https://github.com/OWASP/CheatSheetSeries/pull/2316) (merged), [#2333](https://github.com/OWASP/CheatSheetSeries/pull/2333) (merged), [#2334](https://github.com/OWASP/CheatSheetSeries/pull/2334) (merged), [#2335](https://github.com/OWASP/CheatSheetSeries/pull/2335)
+  PR: [#2316](https://github.com/OWASP/CheatSheetSeries/pull/2316) (merged), [#2333](https://github.com/OWASP/CheatSheetSeries/pull/2333) (merged), [#2334](https://github.com/OWASP/CheatSheetSeries/pull/2334) (merged), [#2335](https://github.com/OWASP/CheatSheetSeries/pull/2335) (open)
 
 
 # NYU Research Lab Contributions:
