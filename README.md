@@ -33,6 +33,9 @@ I contribute to open-source Python, data science, analytics, cybersecurity, and 
 - **docker/docs** — Contributed documentation fixes around restart policy wording, NVIDIA GPU access scope, and OCI/Docker exporter output behavior.  
   PRs: [#25689](https://github.com/docker/docs/pull/25689), [#25690](https://github.com/docker/docs/pull/25690), [#25698](https://github.com/docker/docs/pull/25698)
 
+- **pypi/warehouse** — Merged PR updating stale PyPI organization accounts documentation after verifying the issue had no active duplicate PR.  
+  PR: [#20346](https://github.com/pypi/warehouse/pull/20346)
+
 - **osirislab/ctf101** — Contributed frontend/documentation improvements for logo readability and Google Analytics tracking in the MkDocs site.  
   PRs: [#66](https://github.com/osirislab/ctf101/pull/66), [#70](https://github.com/osirislab/ctf101/pull/70)
 
@@ -47,9 +50,6 @@ I contribute to open-source Python, data science, analytics, cybersecurity, and 
 
 - **jupyterlab/jupyterlab** — Open PR documenting how extension authors can write theme-aware CSS using JupyterLab CSS variables instead of hard-coded colors.  
   PR: [#19230](https://github.com/jupyterlab/jupyterlab/pull/19230)
-
-- **pypi/warehouse** — Merged PR updating stale PyPI organization accounts documentation after verifying the issue had no active duplicate PR.  
-  PR: [#20346](https://github.com/pypi/warehouse/pull/20346)
 
 - **OWASP/CheatSheetSeries** — Merged PR continuing Phase 1 US English cleanup across security cheat sheets.  
   PR: [#2316](https://github.com/OWASP/CheatSheetSeries/pull/2316)
