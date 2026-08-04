@@ -24,68 +24,35 @@ The graph-based method achieved higher precision and recall while reducing the f
 
 I contribute to open-source Python, data science, analytics, cybersecurity, and developer tooling projects.
 
-- **conda/conda** — Merged PR improving command-line `package_spec` documentation for `conda install` and `conda create`  
-  PR: https://github.com/conda/conda/pull/16465
+- **OpenCTI-Platform/opencti** — Contributed documentation improvements and client-python examples around CSV mappers, STIX IDs, storage performance guidance, and observable creation workflows.  
+  PRs: [#17460](https://github.com/OpenCTI-Platform/opencti/pull/17460), [#17482](https://github.com/OpenCTI-Platform/opencti/pull/17482), [#17483](https://github.com/OpenCTI-Platform/opencti/pull/17483), [#17484](https://github.com/OpenCTI-Platform/opencti/pull/17484)
 
-- **conda/conda** — Merged PR updating the cheatsheet environment import command for `.yml` files to match the current docs syntax  
-  PR: https://github.com/conda/conda/pull/16476
+- **conda/conda** — Contributed documentation updates for package specs, environment imports, shell-script activation, authenticated channels, channel concepts, and command examples.  
+  PRs: [#16465](https://github.com/conda/conda/pull/16465), [#16476](https://github.com/conda/conda/pull/16476), [#16478](https://github.com/conda/conda/pull/16478), [#16483](https://github.com/conda/conda/pull/16483), [#16484](https://github.com/conda/conda/pull/16484), [#16485](https://github.com/conda/conda/pull/16485)
 
-- **conda/conda** — Open PR documenting how to activate conda environments inside bash scripts and mentioning `conda run` as an alternative for single-command execution  
-  PR: https://github.com/conda/conda/pull/16478
+- **docker/docs** — Contributed documentation fixes around restart policy wording, NVIDIA GPU access scope, and OCI/Docker exporter output behavior.  
+  PRs: [#25689](https://github.com/docker/docs/pull/25689), [#25690](https://github.com/docker/docs/pull/25690), [#25698](https://github.com/docker/docs/pull/25698)
 
-- **conda/conda** — Open PR adding a User Guide task page for using authenticated channels, including `conda-auth` workflows for HTTP basic authentication, token authentication, logout, and security notes  
-  PR: https://github.com/conda/conda/pull/16483
+- **osirislab/ctf101** — Contributed frontend/documentation improvements for logo readability and Google Analytics tracking in the MkDocs site.  
+  PRs: [#66](https://github.com/osirislab/ctf101/pull/66), [#70](https://github.com/osirislab/ctf101/pull/70)
 
-- **conda/conda** — Open PR updating the channels concept page with examples of common public channels, an Anaconda.org reference, RSS section cleanup, and a new local channels section  
-  PR: https://github.com/conda/conda/pull/16484
+- **apache/superset** — Open PR fixing mixed integer/decimal numeric `IN` filter SQL generation in a major analytics and BI platform.  
+  PR: [#42625](https://github.com/apache/superset/pull/42625)
 
-- **conda/conda** — Open PR updating the commands concept page with common conda command examples, command-line help usage, and plugin-provided command guidance  
-  PR: https://github.com/conda/conda/pull/16485
+- **apache/airflow** — Open PR improving logging architecture documentation by describing default Airflow loggers and linking to existing task logging and advanced logging docs.  
+  PR: [#70842](https://github.com/apache/airflow/pull/70842)
 
-- **jupyterlab/jupyterlab** — Open PR documenting how extension authors can write theme-aware CSS using JupyterLab CSS variables instead of hard-coded colors  
-  PR: https://github.com/jupyterlab/jupyterlab/pull/19230
+- **elastic/kibana** — Open PR adding a Security Solution API documentation warning about deleting exception lists that are still linked to detection rules.  
+  PR: [#282198](https://github.com/elastic/kibana/pull/282198)
 
-- **pypi/warehouse** — Merged PR updating stale PyPI organization accounts documentation after verifying the issue had no active duplicate PR  
-  PR: https://github.com/pypi/warehouse/pull/20346
+- **jupyterlab/jupyterlab** — Open PR documenting how extension authors can write theme-aware CSS using JupyterLab CSS variables instead of hard-coded colors.  
+  PR: [#19230](https://github.com/jupyterlab/jupyterlab/pull/19230)
 
-- **docker/docs** — Open PR removing a misleading restart policy note about “linked containers” from Docker Engine container documentation  
-  PR: https://github.com/docker/docs/pull/25689
+- **pypi/warehouse** — Merged PR updating stale PyPI organization accounts documentation after verifying the issue had no active duplicate PR.  
+  PR: [#20346](https://github.com/pypi/warehouse/pull/20346)
 
-- **docker/docs** — Open PR clarifying NVIDIA GPU access documentation by replacing an undefined “single engine” note with clearer standalone Docker Engine scope guidance  
-  PR: https://github.com/docker/docs/pull/25690
-
-- **docker/docs** — Open PR clarifying OCI and Docker exporter output modes by documenting `dest` and `tar` behavior with examples for tar archives, `tar=false` directory export, local image-store loading, and saving image layouts to disk  
-  PR: https://github.com/docker/docs/pull/25698
-
-- **apache/superset** — Open PR fixing mixed integer/decimal numeric `IN` filter SQL generation in a major analytics and BI platform  
-  PR: https://github.com/apache/superset/pull/42625
-
-- **apache/airflow** — Open PR improving logging architecture documentation by describing default Airflow loggers and linking to existing task logging and advanced logging docs  
-  PR: https://github.com/apache/airflow/pull/70842
-
-- **osirislab/ctf101** — Merged PR improving light mode logo readability by adding a dedicated light-mode logo variant while preserving the green prompt symbol  
-  PR: https://github.com/osirislab/ctf101/pull/66
-
-- **osirislab/ctf101** — Open PR adding Google Analytics / GA4 tracking to the MkDocs site with an OSIRIS-provided Measurement ID, local analytics initializer, and README documentation for future maintainers  
-  PR: https://github.com/osirislab/ctf101/pull/70
-  
-- **OWASP/CheatSheetSeries** — Merged PR continuing Phase 1 US English cleanup across security cheat sheets  
-  PR: https://github.com/OWASP/CheatSheetSeries/pull/2316
-
-- **elastic/kibana** — Open PR adding a Security Solution API documentation warning about deleting exception lists that are still linked to detection rules  
-  PR: https://github.com/elastic/kibana/pull/282198
-
-- **OpenCTI-Platform/opencti** — Approved PR documenting why some STIX cyber observable types support manual multiple creation and why multi-field types such as `Software` should use individual creation or CSV mappers  
-  PR: https://github.com/OpenCTI-Platform/opencti/pull/17460
-
-- **OpenCTI-Platform/opencti** — Open PR documenting ElasticSearch / OpenSearch storage performance guidance, including SSD/NVMe deployment notes and troubleshooting guidance for disk I/O bottlenecks during ingestion  
-  PR: https://github.com/OpenCTI-Platform/opencti/pull/17482
-
-- **OpenCTI-Platform/opencti** — Open PR clarifying how OpenCTI uses canonical `Standard STIX ID` values for deduplication and how imported/source STIX IDs may differ for TAXII feeds or external CTI repositories  
-  PR: https://github.com/OpenCTI-Platform/opencti/pull/17483
-
-- **OpenCTI-Platform/opencti** — Open PR adding a PyCTI example for uploading a CSV file, selecting a CSV mapper configuration, and triggering a CSV mapper import with `askJobImport`  
-  PR: https://github.com/OpenCTI-Platform/opencti/pull/17484
+- **OWASP/CheatSheetSeries** — Merged PR continuing Phase 1 US English cleanup across security cheat sheets.  
+  PR: [#2316](https://github.com/OWASP/CheatSheetSeries/pull/2316)
 
 # NYU Research Lab Contributions:
 
