@@ -34,7 +34,7 @@ I contribute to open-source Python, data science, analytics, cybersecurity, and 
   PRs: [#25689](https://github.com/docker/docs/pull/25689), [#25690](https://github.com/docker/docs/pull/25690), [#25698](https://github.com/docker/docs/pull/25698)
 
 - **pypi/warehouse** — Merged PR updating stale PyPI organization accounts documentation after verifying the issue had no active duplicate PR.  
-  PR: [#20346](https://github.com/pypi/warehouse/pull/20346)
+  PR: [#20346](https://github.com/pypi/warehouse/pull/20346), [#20352](https://github.com/pypi/warehouse/pull/20352)
 
 - **osirislab/ctf101** — Contributed frontend/documentation improvements for logo readability and Google Analytics tracking in the MkDocs site.  
   PRs: [#66](https://github.com/osirislab/ctf101/pull/66), [#70](https://github.com/osirislab/ctf101/pull/70)
