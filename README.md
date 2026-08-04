@@ -25,34 +25,34 @@ The graph-based method achieved higher precision and recall while reducing the f
 I contribute to open-source projects across Python, data analytics, cybersecurity, developer tooling, and technical documentation.
 
 - **OpenCTI-Platform/opencti** — Improved OpenCTI documentation and Python client examples across data ingestion, STIX object handling, storage performance, and observable creation workflows.  
-  PRs: [#17460](https://github.com/OpenCTI-Platform/opencti/pull/17460), [#17482](https://github.com/OpenCTI-Platform/opencti/pull/17482), [#17483](https://github.com/OpenCTI-Platform/opencti/pull/17483), [#17484](https://github.com/OpenCTI-Platform/opencti/pull/17484)
+  PRs: [#17460](https://github.com/OpenCTI-Platform/opencti/pull/17460) (approved), [#17482](https://github.com/OpenCTI-Platform/opencti/pull/17482) (open), [#17483](https://github.com/OpenCTI-Platform/opencti/pull/17483) (open), [#17484](https://github.com/OpenCTI-Platform/opencti/pull/17484) (open)
 
 - **conda/conda** — Updated Conda documentation across package specifications, environment management, shell activation, authenticated channels, channel concepts, and command-line usage.  
-  PRs: [#16465](https://github.com/conda/conda/pull/16465), [#16476](https://github.com/conda/conda/pull/16476), [#16478](https://github.com/conda/conda/pull/16478), [#16483](https://github.com/conda/conda/pull/16483), [#16484](https://github.com/conda/conda/pull/16484), [#16485](https://github.com/conda/conda/pull/16485)
+  PRs: [#16465](https://github.com/conda/conda/pull/16465) (merged), [#16476](https://github.com/conda/conda/pull/16476) (merged), [#16478](https://github.com/conda/conda/pull/16478) (open), [#16483](https://github.com/conda/conda/pull/16483) (open), [#16484](https://github.com/conda/conda/pull/16484) (open), [#16485](https://github.com/conda/conda/pull/16485) (open)
 
-- **docker/docs** — Clarified Docker documentation related to container restart behavior, NVIDIA GPU access, and exporter output formats.  
-  PRs: [#25689](https://github.com/docker/docs/pull/25689), [#25690](https://github.com/docker/docs/pull/25690), [#25698](https://github.com/docker/docs/pull/25698)
+- **docker/docs** — Clarified Docker documentation related to container restart behavior, NVIDIA GPU access, and OCI and Docker exporter output formats.  
+  PRs: [#25689](https://github.com/docker/docs/pull/25689) (open), [#25690](https://github.com/docker/docs/pull/25690) (open), [#25698](https://github.com/docker/docs/pull/25698) (open)
 
-- **pypi/warehouse** — Improved PyPI’s user-facing documentation for organization accounts, API token authentication, Twine credential handling, keyring integration, and Trusted Publishing.  
-  PRs: [#20346](https://github.com/pypi/warehouse/pull/20346), [#20352](https://github.com/pypi/warehouse/pull/20352)
+- **pypi/warehouse** — Improved PyPI documentation covering organization accounts, API token authentication, Twine credential handling, keyring integration, and Trusted Publishing.  
+  PRs: [#20346](https://github.com/pypi/warehouse/pull/20346) (merged), [#20352](https://github.com/pypi/warehouse/pull/20352) (open)
 
 - **osirislab/ctf101** — Improved the CTF 101 documentation site through frontend readability fixes and analytics integration.  
-  PRs: [#66](https://github.com/osirislab/ctf101/pull/66), [#70](https://github.com/osirislab/ctf101/pull/70)
+  PRs: [#66](https://github.com/osirislab/ctf101/pull/66) (merged), [#70](https://github.com/osirislab/ctf101/pull/70) (open)
 
 - **apache/superset** — Contributed a fix for SQL generation involving numeric `IN` filters with mixed integer and decimal values.  
-  PR: [#42625](https://github.com/apache/superset/pull/42625)
+  PR: [#42625](https://github.com/apache/superset/pull/42625) (open)
 
 - **apache/airflow** — Expanded logging architecture documentation with clearer coverage of default loggers and related task and advanced logging resources.  
-  PR: [#70842](https://github.com/apache/airflow/pull/70842)
+  PR: [#70842](https://github.com/apache/airflow/pull/70842) (open)
 
 - **elastic/kibana** — Improved Security Solution API documentation by clarifying the risks of deleting exception lists that remain linked to detection rules.  
-  PR: [#282198](https://github.com/elastic/kibana/pull/282198)
+  PR: [#282198](https://github.com/elastic/kibana/pull/282198) (open)
 
 - **jupyterlab/jupyterlab** — Improved extension development documentation by explaining how to build theme-aware CSS using JupyterLab variables instead of hard-coded colors.  
-  PR: [#19230](https://github.com/jupyterlab/jupyterlab/pull/19230)
+  PR: [#19230](https://github.com/jupyterlab/jupyterlab/pull/19230) (open)
 
 - **OWASP/CheatSheetSeries** — Improved language consistency and US English usage across multiple OWASP security cheat sheets.  
-  PR: [#2316](https://github.com/OWASP/CheatSheetSeries/pull/2316)
+  PR: [#2316](https://github.com/OWASP/CheatSheetSeries/pull/2316) (merged)
 
 
 # NYU Research Lab Contributions:
