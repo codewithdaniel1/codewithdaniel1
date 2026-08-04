@@ -52,7 +52,7 @@ I contribute to open-source projects across Python, data analytics, cybersecurit
   PR: [#19230](https://github.com/jupyterlab/jupyterlab/pull/19230) (open)
 
 - **OWASP/CheatSheetSeries** — Improved language consistency and US English usage across multiple OWASP security cheat sheets.  
-  PR: [#2316](https://github.com/OWASP/CheatSheetSeries/pull/2316) (merged)
+  PR: [#2316](https://github.com/OWASP/CheatSheetSeries/pull/2316) (merged), [#2333](https://github.com/OWASP/CheatSheetSeries/pull/2333) (open)
 
 
 # NYU Research Lab Contributions:
