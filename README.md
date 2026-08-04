@@ -22,36 +22,36 @@ The graph-based method achieved higher precision and recall while reducing the f
 
 # Open Source Contributions
 
-I contribute to open-source Python, data science, analytics, cybersecurity, and developer tooling projects.
+I contribute to open-source projects across Python, data analytics, cybersecurity, developer tooling, and technical documentation.
 
-- **OpenCTI-Platform/opencti** — Contributed documentation improvements and Python client examples covering CSV mappers, STIX IDs, storage performance guidance, and observable creation workflows.  
+- **OpenCTI-Platform/opencti** — Improved OpenCTI documentation and Python client examples across data ingestion, STIX object handling, storage performance, and observable creation workflows.  
   PRs: [#17460](https://github.com/OpenCTI-Platform/opencti/pull/17460), [#17482](https://github.com/OpenCTI-Platform/opencti/pull/17482), [#17483](https://github.com/OpenCTI-Platform/opencti/pull/17483), [#17484](https://github.com/OpenCTI-Platform/opencti/pull/17484)
 
-- **conda/conda** — Contributed documentation updates covering package specifications, environment imports, shell-script activation, authenticated channels, channel concepts, and command examples.  
+- **conda/conda** — Updated Conda documentation across package specifications, environment management, shell activation, authenticated channels, channel concepts, and command-line usage.  
   PRs: [#16465](https://github.com/conda/conda/pull/16465), [#16476](https://github.com/conda/conda/pull/16476), [#16478](https://github.com/conda/conda/pull/16478), [#16483](https://github.com/conda/conda/pull/16483), [#16484](https://github.com/conda/conda/pull/16484), [#16485](https://github.com/conda/conda/pull/16485)
 
-- **docker/docs** — Contributed documentation fixes covering restart policy wording, NVIDIA GPU access scope, and OCI and Docker exporter output behavior.  
+- **docker/docs** — Clarified Docker documentation related to container restart behavior, NVIDIA GPU access, and exporter output formats.  
   PRs: [#25689](https://github.com/docker/docs/pull/25689), [#25690](https://github.com/docker/docs/pull/25690), [#25698](https://github.com/docker/docs/pull/25698)
 
-- **pypi/warehouse** — Contributed improvements to PyPI documentation and account security guidance. One merged PR updated outdated organization account documentation, while a second PR adds guidance about Twine authentication methods, keyring integration, and Trusted Publishing.  
-  PRs: [#20346](https://github.com/pypi/warehouse/pull/20346) (merged), [#20352](https://github.com/pypi/warehouse/pull/20352) (open)
+- **pypi/warehouse** — Improved PyPI’s user-facing documentation for organization accounts, API token authentication, Twine credential handling, keyring integration, and Trusted Publishing.  
+  PRs: [#20346](https://github.com/pypi/warehouse/pull/20346), [#20352](https://github.com/pypi/warehouse/pull/20352)
 
-- **osirislab/ctf101** — Contributed frontend and documentation improvements for logo readability and Google Analytics tracking on the MkDocs site.  
+- **osirislab/ctf101** — Improved the CTF 101 documentation site through frontend readability fixes and analytics integration.  
   PRs: [#66](https://github.com/osirislab/ctf101/pull/66), [#70](https://github.com/osirislab/ctf101/pull/70)
 
-- **apache/superset** — Open PR fixing SQL generation for numeric `IN` filters containing a mixture of integer and decimal values in a major analytics and business intelligence platform.  
+- **apache/superset** — Contributed a fix for SQL generation involving numeric `IN` filters with mixed integer and decimal values.  
   PR: [#42625](https://github.com/apache/superset/pull/42625)
 
-- **apache/airflow** — Open PR improving logging architecture documentation by describing Airflow's default loggers and linking to existing task logging and advanced logging documentation.  
+- **apache/airflow** — Expanded logging architecture documentation with clearer coverage of default loggers and related task and advanced logging resources.  
   PR: [#70842](https://github.com/apache/airflow/pull/70842)
 
-- **elastic/kibana** — Open PR adding a Security Solution API documentation warning about deleting exception lists that remain linked to detection rules.  
+- **elastic/kibana** — Improved Security Solution API documentation by clarifying the risks of deleting exception lists that remain linked to detection rules.  
   PR: [#282198](https://github.com/elastic/kibana/pull/282198)
 
-- **jupyterlab/jupyterlab** — Open PR documenting how extension authors can create theme-aware CSS using JupyterLab CSS variables instead of hard-coded colors.  
+- **jupyterlab/jupyterlab** — Improved extension development documentation by explaining how to build theme-aware CSS using JupyterLab variables instead of hard-coded colors.  
   PR: [#19230](https://github.com/jupyterlab/jupyterlab/pull/19230)
 
-- **OWASP/CheatSheetSeries** — Merged PR continuing Phase 1 US English language cleanup across multiple security cheat sheets.  
+- **OWASP/CheatSheetSeries** — Improved language consistency and US English usage across multiple OWASP security cheat sheets.  
   PR: [#2316](https://github.com/OWASP/CheatSheetSeries/pull/2316)
 
 
