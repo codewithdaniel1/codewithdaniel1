@@ -20,39 +20,40 @@ The graph-based method achieved higher precision and recall while reducing the f
 # Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat&logo=apachespark&logoColor=black) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat&logo=apachehive&logoColor=black) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Teradata](https://img.shields.io/badge/Teradata-F37440?style=flat&logo=teradata&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=flat&logo=bitbucket&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat&logo=selenium&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=flat&logo=splunk&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=flat&logo=tor-project&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 
-# Open Source Contributions:
+# Open Source Contributions
 
 I contribute to open-source Python, data science, analytics, cybersecurity, and developer tooling projects.
 
-- **OpenCTI-Platform/opencti** — Contributed documentation improvements and client-python examples around CSV mappers, STIX IDs, storage performance guidance, and observable creation workflows.  
+- **OpenCTI-Platform/opencti** — Contributed documentation improvements and Python client examples covering CSV mappers, STIX IDs, storage performance guidance, and observable creation workflows.  
   PRs: [#17460](https://github.com/OpenCTI-Platform/opencti/pull/17460), [#17482](https://github.com/OpenCTI-Platform/opencti/pull/17482), [#17483](https://github.com/OpenCTI-Platform/opencti/pull/17483), [#17484](https://github.com/OpenCTI-Platform/opencti/pull/17484)
 
-- **conda/conda** — Contributed documentation updates for package specs, environment imports, shell-script activation, authenticated channels, channel concepts, and command examples.  
+- **conda/conda** — Contributed documentation updates covering package specifications, environment imports, shell-script activation, authenticated channels, channel concepts, and command examples.  
   PRs: [#16465](https://github.com/conda/conda/pull/16465), [#16476](https://github.com/conda/conda/pull/16476), [#16478](https://github.com/conda/conda/pull/16478), [#16483](https://github.com/conda/conda/pull/16483), [#16484](https://github.com/conda/conda/pull/16484), [#16485](https://github.com/conda/conda/pull/16485)
 
-- **docker/docs** — Contributed documentation fixes around restart policy wording, NVIDIA GPU access scope, and OCI/Docker exporter output behavior.  
+- **docker/docs** — Contributed documentation fixes covering restart policy wording, NVIDIA GPU access scope, and OCI and Docker exporter output behavior.  
   PRs: [#25689](https://github.com/docker/docs/pull/25689), [#25690](https://github.com/docker/docs/pull/25690), [#25698](https://github.com/docker/docs/pull/25698)
 
-- **pypi/warehouse** — Merged PR updating stale PyPI organization accounts documentation after verifying the issue had no active duplicate PR.  
-  PR: [#20346](https://github.com/pypi/warehouse/pull/20346), [#20352](https://github.com/pypi/warehouse/pull/20352)
+- **pypi/warehouse** — Contributed improvements to PyPI documentation and account security guidance. One merged PR updated outdated organization account documentation, while a second PR adds guidance about Twine authentication methods, keyring integration, and Trusted Publishing.  
+  PRs: [#20346](https://github.com/pypi/warehouse/pull/20346) (merged), [#20352](https://github.com/pypi/warehouse/pull/20352) (open)
 
-- **osirislab/ctf101** — Contributed frontend/documentation improvements for logo readability and Google Analytics tracking in the MkDocs site.  
+- **osirislab/ctf101** — Contributed frontend and documentation improvements for logo readability and Google Analytics tracking on the MkDocs site.  
   PRs: [#66](https://github.com/osirislab/ctf101/pull/66), [#70](https://github.com/osirislab/ctf101/pull/70)
 
-- **apache/superset** — Open PR fixing mixed integer/decimal numeric `IN` filter SQL generation in a major analytics and BI platform.  
+- **apache/superset** — Open PR fixing SQL generation for numeric `IN` filters containing a mixture of integer and decimal values in a major analytics and business intelligence platform.  
   PR: [#42625](https://github.com/apache/superset/pull/42625)
 
-- **apache/airflow** — Open PR improving logging architecture documentation by describing default Airflow loggers and linking to existing task logging and advanced logging docs.  
+- **apache/airflow** — Open PR improving logging architecture documentation by describing Airflow's default loggers and linking to existing task logging and advanced logging documentation.  
   PR: [#70842](https://github.com/apache/airflow/pull/70842)
 
-- **elastic/kibana** — Open PR adding a Security Solution API documentation warning about deleting exception lists that are still linked to detection rules.  
+- **elastic/kibana** — Open PR adding a Security Solution API documentation warning about deleting exception lists that remain linked to detection rules.  
   PR: [#282198](https://github.com/elastic/kibana/pull/282198)
 
-- **jupyterlab/jupyterlab** — Open PR documenting how extension authors can write theme-aware CSS using JupyterLab CSS variables instead of hard-coded colors.  
+- **jupyterlab/jupyterlab** — Open PR documenting how extension authors can create theme-aware CSS using JupyterLab CSS variables instead of hard-coded colors.  
   PR: [#19230](https://github.com/jupyterlab/jupyterlab/pull/19230)
 
-- **OWASP/CheatSheetSeries** — Merged PR continuing Phase 1 US English cleanup across security cheat sheets.  
+- **OWASP/CheatSheetSeries** — Merged PR continuing Phase 1 US English language cleanup across multiple security cheat sheets.  
   PR: [#2316](https://github.com/OWASP/CheatSheetSeries/pull/2316)
+
 
 # NYU Research Lab Contributions:
 
