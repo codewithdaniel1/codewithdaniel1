@@ -84,6 +84,9 @@ I contribute to open-source Python, data science, analytics, cybersecurity, and 
 - **OpenCTI-Platform/opencti** — Open PR clarifying how OpenCTI uses canonical `Standard STIX ID` values for deduplication and how imported/source STIX IDs may differ for TAXII feeds or external CTI repositories  
   PR: https://github.com/OpenCTI-Platform/opencti/pull/17483
 
+- **OpenCTI-Platform/opencti** — Open PR adding a PyCTI example for uploading a CSV file, selecting a CSV mapper configuration, and triggering a CSV mapper import with `askJobImport`  
+  PR: https://github.com/OpenCTI-Platform/opencti/pull/17484
+
 # NYU Research Lab Contributions:
 
 - [**NYU OSIRIS Lab**](https://osiris.cyber.nyu.edu) — Contributed to private research lab repositories supporting cybersecurity research, CTF infrastructure, AI evaluation workflows, Official NYU tooling, and internal lab tooling.
