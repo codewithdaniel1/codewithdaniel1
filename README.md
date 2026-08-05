@@ -37,7 +37,7 @@ I contribute to open-source projects across Python, data analytics, cybersecurit
   PRs: [#20346](https://github.com/pypi/warehouse/pull/20346) (merged), [#20352](https://github.com/pypi/warehouse/pull/20352) (open)
 
 - **osirislab/ctf101** — Improved the CTF 101 documentation site through frontend readability fixes and analytics integration.  
-  PRs: [#66](https://github.com/osirislab/ctf101/pull/66) (merged), [#70](https://github.com/osirislab/ctf101/pull/70) (open), [#74](https://github.com/osirislab/ctf101/pull/74) (open)
+  PRs: [#66](https://github.com/osirislab/ctf101/pull/66) (merged), [#70](https://github.com/osirislab/ctf101/pull/70) (open), [#74](https://github.com/osirislab/ctf101/pull/74) (open), [#75](https://github.com/osirislab/ctf101/pull/75) (open)
 
 - **apache/superset** — Contributed a fix for SQL generation involving numeric `IN` filters with mixed integer and decimal values.  
   PR: [#42625](https://github.com/apache/superset/pull/42625) (open)
