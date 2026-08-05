@@ -40,7 +40,7 @@ I contribute to open-source projects across Python, data analytics, cybersecurit
   PRs: [#66](https://github.com/osirislab/ctf101/pull/66) (merged), [#70](https://github.com/osirislab/ctf101/pull/70) (open), [#74](https://github.com/osirislab/ctf101/pull/74) (open), [#75](https://github.com/osirislab/ctf101/pull/75) (open)
 
 - **apache/superset** — Contributed a fix for SQL generation involving numeric `IN` filters with mixed integer and decimal values.  
-  PR: [#42625](https://github.com/apache/superset/pull/42625) (open)
+  PR: [#42625](https://github.com/apache/superset/pull/42625) (approved)
 
 - **apache/airflow** — Expanded logging architecture documentation with clearer coverage of default loggers and related task and advanced logging resources.  
   PR: [#70842](https://github.com/apache/airflow/pull/70842) (open)
