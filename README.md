@@ -31,7 +31,7 @@ I contribute to open-source projects across Python, data analytics, cybersecurit
   PRs: [#16465](https://github.com/conda/conda/pull/16465) (merged), [#16476](https://github.com/conda/conda/pull/16476) (merged), [#16478](https://github.com/conda/conda/pull/16478) (merged), [#16483](https://github.com/conda/conda/pull/16483) (merged), [#16484](https://github.com/conda/conda/pull/16484) (merged), [#16485](https://github.com/conda/conda/pull/16485) (merged), [#16499](https://github.com/conda/conda/pull/16499) (merged)
 
 - **docker/docs** — Clarified Docker documentation related to container restart behavior, NVIDIA GPU access, and OCI and Docker exporter output formats.  
-  PRs: [#25689](https://github.com/docker/docs/pull/25689) (open), [#25690](https://github.com/docker/docs/pull/25690) (open), [#25698](https://github.com/docker/docs/pull/25698) (open)
+  PRs: [#25689](https://github.com/docker/docs/pull/25689) (merged), [#25690](https://github.com/docker/docs/pull/25690) (open), [#25698](https://github.com/docker/docs/pull/25698) (open)
 
 - **pypi/warehouse** — Improved PyPI documentation covering organization accounts, API token authentication, Twine credential handling, keyring integration, and Trusted Publishing.  
   PRs: [#20346](https://github.com/pypi/warehouse/pull/20346) (merged), [#20352](https://github.com/pypi/warehouse/pull/20352) (open)
