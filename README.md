@@ -24,14 +24,14 @@ The graph-based method achieved higher precision and recall while reducing the f
 
 I contribute to open-source projects across Python, data analytics, cybersecurity, developer tooling, and technical documentation.
 
-- **OpenCTI-Platform/opencti** — Improved OpenCTI documentation and Python client examples across data ingestion, STIX object handling, storage performance, and observable creation workflows.  
-  PRs: [#17460](https://github.com/OpenCTI-Platform/opencti/pull/17460) (merged), [#17482](https://github.com/OpenCTI-Platform/opencti/pull/17482) (open), [#17483](https://github.com/OpenCTI-Platform/opencti/pull/17483) (open), [#17484](https://github.com/OpenCTI-Platform/opencti/pull/17484) (open)
-
 - **conda/conda** — Updated Conda documentation across package specifications, environment management, shell activation, authenticated channels, channel concepts, and command-line usage.  
   PRs: [#16465](https://github.com/conda/conda/pull/16465) (merged), [#16476](https://github.com/conda/conda/pull/16476) (merged), [#16478](https://github.com/conda/conda/pull/16478) (merged), [#16483](https://github.com/conda/conda/pull/16483) (merged), [#16484](https://github.com/conda/conda/pull/16484) (merged), [#16485](https://github.com/conda/conda/pull/16485) (merged), [#16499](https://github.com/conda/conda/pull/16499) (merged)
 
 - **docker/docs** — Clarified Docker documentation related to container restart behavior, NVIDIA GPU access, and OCI and Docker exporter output formats.  
   PRs: [#25689](https://github.com/docker/docs/pull/25689) (merged), [#25690](https://github.com/docker/docs/pull/25690) (open), [#25698](https://github.com/docker/docs/pull/25698) (open)
+
+- **OpenCTI-Platform/opencti** — Improved OpenCTI documentation and Python client examples across data ingestion, STIX object handling, storage performance, and observable creation workflows.  
+  PRs: [#17460](https://github.com/OpenCTI-Platform/opencti/pull/17460) (merged), [#17482](https://github.com/OpenCTI-Platform/opencti/pull/17482) (open), [#17483](https://github.com/OpenCTI-Platform/opencti/pull/17483) (open), [#17484](https://github.com/OpenCTI-Platform/opencti/pull/17484) (open)
 
 - **pypi/warehouse** — Improved PyPI documentation covering organization accounts, API token authentication, Twine credential handling, keyring integration, and Trusted Publishing.  
   PRs: [#20346](https://github.com/pypi/warehouse/pull/20346) (merged), [#20352](https://github.com/pypi/warehouse/pull/20352) (open)
