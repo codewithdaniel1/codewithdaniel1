@@ -36,6 +36,9 @@ I contribute to open-source projects across Python, data analytics, cybersecurit
 - **pypi/warehouse** — Improved PyPI documentation covering organization accounts, API token authentication, Twine credential handling, keyring integration, and Trusted Publishing.  
   PRs: [#20346](https://github.com/pypi/warehouse/pull/20346) (merged), [#20352](https://github.com/pypi/warehouse/pull/20352) (open)
 
+- **OWASP/CheatSheetSeries** — Improved language consistency and US English usage across multiple OWASP security cheat sheets.  
+  PR: [#2316](https://github.com/OWASP/CheatSheetSeries/pull/2316) (merged), [#2333](https://github.com/OWASP/CheatSheetSeries/pull/2333) (merged), [#2334](https://github.com/OWASP/CheatSheetSeries/pull/2334) (merged), [#2335](https://github.com/OWASP/CheatSheetSeries/pull/2335) (merged), [#2338](https://github.com/OWASP/CheatSheetSeries/pull/2338) (merged)
+
 - **osirislab/ctf101** — Improved the CTF 101 documentation site through frontend readability fixes and analytics integration.  
   PRs: [#66](https://github.com/osirislab/ctf101/pull/66) (merged), [#70](https://github.com/osirislab/ctf101/pull/70) (open), [#74](https://github.com/osirislab/ctf101/pull/74) (open), [#75](https://github.com/osirislab/ctf101/pull/75) (open)
 
@@ -47,9 +50,6 @@ I contribute to open-source projects across Python, data analytics, cybersecurit
 
 - **jupyterlab/jupyterlab** — Improved extension development documentation by explaining how to build theme-aware CSS using JupyterLab variables instead of hard-coded colors.  
   PR: [#19230](https://github.com/jupyterlab/jupyterlab/pull/19230) (open)
-
-- **OWASP/CheatSheetSeries** — Improved language consistency and US English usage across multiple OWASP security cheat sheets.  
-  PR: [#2316](https://github.com/OWASP/CheatSheetSeries/pull/2316) (merged), [#2333](https://github.com/OWASP/CheatSheetSeries/pull/2333) (merged), [#2334](https://github.com/OWASP/CheatSheetSeries/pull/2334) (merged), [#2335](https://github.com/OWASP/CheatSheetSeries/pull/2335) (merged), [#2338](https://github.com/OWASP/CheatSheetSeries/pull/2338) (merged)
 
 
 # NYU Research Lab Contributions:
