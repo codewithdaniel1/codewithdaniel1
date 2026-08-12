@@ -49,7 +49,7 @@ I contribute to open-source projects across Python, data analytics, cybersecurit
   PR: [#70842](https://github.com/apache/airflow/pull/70842) (open)
 
 - **jupyterlab/jupyterlab** — Improved extension development documentation by explaining how to build theme-aware CSS using JupyterLab variables instead of hard-coded colors.  
-  PR: [#19230](https://github.com/jupyterlab/jupyterlab/pull/19230) (open)
+  PR: [#19230](https://github.com/jupyterlab/jupyterlab/pull/19230) (open), [#19282](https://github.com/jupyterlab/jupyterlab/pull/19282) (open)
 
 
 # NYU Research Lab Contributions:
