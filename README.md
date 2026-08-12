@@ -60,6 +60,81 @@ I contribute to open-source projects across Python, data analytics, cybersecurit
 
   PR: [#70842](https://github.com/apache/airflow/pull/70842) (open)
 
+
+# Open Source Contributions
+
+I contribute to open-source projects across Python, data analytics, cybersecurity, developer tooling, and technical documentation.
+
+### ![Conda](https://img.shields.io/badge/Conda-44A833?style=flat&logo=anaconda&logoColor=white) conda/conda
+
+Updated Conda documentation across package specifications, environment management, shell activation, authenticated channels, channel concepts, and command-line usage.
+
+**PRs:** [#16465](https://github.com/conda/conda/pull/16465) (merged), [#16476](https://github.com/conda/conda/pull/16476) (merged), [#16478](https://github.com/conda/conda/pull/16478) (merged), [#16483](https://github.com/conda/conda/pull/16483) (merged), [#16484](https://github.com/conda/conda/pull/16484) (merged), [#16485](https://github.com/conda/conda/pull/16485) (merged), [#16499](https://github.com/conda/conda/pull/16499) (merged)
+
+---
+
+### ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) docker/docs
+
+Clarified Docker documentation related to container restart behavior, NVIDIA GPU access, and OCI and Docker exporter output formats.
+
+**PRs:** [#25689](https://github.com/docker/docs/pull/25689) (merged), [#25690](https://github.com/docker/docs/pull/25690) (open), [#25698](https://github.com/docker/docs/pull/25698) (open)
+
+---
+
+### ![OpenCTI](https://img.shields.io/badge/OpenCTI-111111?style=flat&logo=opencti&logoColor=white) OpenCTI-Platform/opencti
+
+Improved OpenCTI documentation and Python client examples across data ingestion, STIX object handling, storage performance, and observable creation workflows.
+
+**PRs:** [#17460](https://github.com/OpenCTI-Platform/opencti/pull/17460) (merged), [#17482](https://github.com/OpenCTI-Platform/opencti/pull/17482) (open), [#17483](https://github.com/OpenCTI-Platform/opencti/pull/17483) (open), [#17484](https://github.com/OpenCTI-Platform/opencti/pull/17484) (open)
+
+---
+
+### ![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=flat&logo=pypi&logoColor=white) pypi/warehouse
+
+Improved PyPI documentation covering organization accounts, API token authentication, Twine credential handling, keyring integration, and Trusted Publishing.
+
+**PRs:** [#20346](https://github.com/pypi/warehouse/pull/20346) (merged), [#20352](https://github.com/pypi/warehouse/pull/20352) (open)
+
+---
+
+### ![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat&logo=owasp&logoColor=white) OWASP/CheatSheetSeries
+
+Improved language consistency and US English usage across multiple OWASP security cheat sheets.
+
+**PRs:** [#2316](https://github.com/OWASP/CheatSheetSeries/pull/2316) (merged), [#2333](https://github.com/OWASP/CheatSheetSeries/pull/2333) (merged), [#2334](https://github.com/OWASP/CheatSheetSeries/pull/2334) (merged), [#2335](https://github.com/OWASP/CheatSheetSeries/pull/2335) (merged), [#2338](https://github.com/OWASP/CheatSheetSeries/pull/2338) (merged)
+
+---
+
+### ![NYU](https://img.shields.io/badge/NYU-57068C?style=flat&logoColor=white) osirislab/ctf101
+
+Improved the CTF 101 documentation site through frontend readability fixes and analytics integration.
+
+**PRs:** [#66](https://github.com/osirislab/ctf101/pull/66) (merged), [#70](https://github.com/osirislab/ctf101/pull/70) (open), [#74](https://github.com/osirislab/ctf101/pull/74) (open), [#75](https://github.com/osirislab/ctf101/pull/75) (open)
+
+---
+
+### ![Elastic](https://img.shields.io/badge/Elastic-005571?style=flat&logo=elastic&logoColor=white) elastic/kibana
+
+Improved Security Solution API documentation by clarifying the risks of deleting exception lists that remain linked to detection rules.
+
+**PR:** [#282198](https://github.com/elastic/kibana/pull/282198) (merged)
+
+---
+
+### ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) jupyterlab/jupyterlab
+
+Improved extension development documentation for theme-aware CSS and fixed file browser context-menu paste behavior so files can be pasted directly into the selected folder.
+
+**PRs:** [#19230](https://github.com/jupyterlab/jupyterlab/pull/19230) (open), [#19282](https://github.com/jupyterlab/jupyterlab/pull/19282) (open)
+
+---
+
+### ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white) apache/airflow
+
+Expanded logging architecture documentation with clearer coverage of default loggers and related task and advanced logging resources.
+
+**PR:** [#70842](https://github.com/apache/airflow/pull/70842) (open)
+
 # NYU Research Lab Contributions:
 
 - [**NYU OSIRIS Lab**](https://osiris.cyber.nyu.edu) — Contributed to private research lab repositories supporting cybersecurity research, CTF infrastructure, AI evaluation workflows, Official NYU tooling, and internal lab tooling.
