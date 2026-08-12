@@ -45,7 +45,7 @@ I contribute to open-source projects across Python, data analytics, cybersecurit
 - **elastic/kibana** — Improved Security Solution API documentation by clarifying the risks of deleting exception lists that remain linked to detection rules.  
   PR: [#282198](https://github.com/elastic/kibana/pull/282198) (merged)
 
-- **jupyterlab/jupyterlab** — Improved extension development documentation for theme-aware CSS and fixed file browser context-menu paste behavior so files can be pasted directly into the selected folder. 
+- **jupyterlab/jupyterlab** — Improved extension development documentation for theme-aware CSS and fixed file browser context-menu paste behavior so files can be pasted directly into the selected folder.
   PR: [#19230](https://github.com/jupyterlab/jupyterlab/pull/19230) (open), [#19282](https://github.com/jupyterlab/jupyterlab/pull/19282) (open)
 
 - **apache/airflow** — Expanded logging architecture documentation with clearer coverage of default loggers and related task and advanced logging resources.  
