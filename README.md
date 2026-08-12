@@ -54,12 +54,6 @@ Improved language consistency and US English usage across multiple OWASP securit
 
 **PRs:** [#2316](https://github.com/OWASP/CheatSheetSeries/pull/2316) (merged), [#2333](https://github.com/OWASP/CheatSheetSeries/pull/2333) (merged), [#2334](https://github.com/OWASP/CheatSheetSeries/pull/2334) (merged), [#2335](https://github.com/OWASP/CheatSheetSeries/pull/2335) (merged), [#2338](https://github.com/OWASP/CheatSheetSeries/pull/2338) (merged)
 
-### ![NYU](https://img.shields.io/badge/NYU-57068C?style=flat&logoColor=white) osirislab/ctf101
-
-Improved the CTF 101 documentation site through frontend readability fixes and analytics integration.
-
-**PRs:** [#66](https://github.com/osirislab/ctf101/pull/66) (merged), [#70](https://github.com/osirislab/ctf101/pull/70) (open), [#74](https://github.com/osirislab/ctf101/pull/74) (open), [#75](https://github.com/osirislab/ctf101/pull/75) (open)
-
 ### ![Elastic](https://img.shields.io/badge/Elastic-005571?style=flat&logo=elastic&logoColor=white) elastic/kibana
 
 Improved Security Solution API documentation by clarifying the risks of deleting exception lists that remain linked to detection rules.
