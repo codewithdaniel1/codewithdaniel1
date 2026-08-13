@@ -70,7 +70,7 @@ Improved extension development documentation for theme-aware CSS and fixed file 
 
 Expanded logging architecture documentation with clearer coverage of default loggers and related task and advanced logging resources.
 
-**PR:** [#70842](https://github.com/apache/airflow/pull/70842) (open)
+**PR:** [#70842](https://github.com/apache/airflow/pull/70842) (merged)
 
 # NYU Research Lab Contributions:
 
