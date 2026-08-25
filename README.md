@@ -40,7 +40,7 @@ Clarified Docker documentation related to container restart behavior, NVIDIA GPU
 
 Improved OpenCTI documentation and Python client examples across data ingestion, STIX object handling, storage performance, and observable creation workflows.
 
-**PRs:** [#17460](https://github.com/OpenCTI-Platform/opencti/pull/17460) (merged), [#17482](https://github.com/OpenCTI-Platform/opencti/pull/17482) (open), [#17483](https://github.com/OpenCTI-Platform/opencti/pull/17483) (approved), [#17484](https://github.com/OpenCTI-Platform/opencti/pull/17484) (open)
+**PRs:** [#17460](https://github.com/OpenCTI-Platform/opencti/pull/17460) (merged), [#17482](https://github.com/OpenCTI-Platform/opencti/pull/17482) (open), [#17483](https://github.com/OpenCTI-Platform/opencti/pull/17483) (merged), [#17484](https://github.com/OpenCTI-Platform/opencti/pull/17484) (open)
 
 ### ![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=flat&logo=pypi&logoColor=white) pypi/warehouse
 
