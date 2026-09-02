@@ -28,7 +28,7 @@ I contribute to open-source projects across Python, data analytics, cybersecurit
 
 Updated Conda documentation across package specifications, environment management, shell activation, authenticated channels, channel concepts, and command-line usage.
 
-**PRs:** [#16465](https://github.com/conda/conda/pull/16465) (merged), [#16476](https://github.com/conda/conda/pull/16476) (merged), [#16478](https://github.com/conda/conda/pull/16478) (merged), [#16483](https://github.com/conda/conda/pull/16483) (merged), [#16484](https://github.com/conda/conda/pull/16484) (merged), [#16485](https://github.com/conda/conda/pull/16485) (merged), [#16499](https://github.com/conda/conda/pull/16499) (merged), [#16599](https://github.com/conda/conda/pull/16599) (open)
+**PRs:** [#16465](https://github.com/conda/conda/pull/16465) (merged), [#16476](https://github.com/conda/conda/pull/16476) (merged), [#16478](https://github.com/conda/conda/pull/16478) (merged), [#16483](https://github.com/conda/conda/pull/16483) (merged), [#16484](https://github.com/conda/conda/pull/16484) (merged), [#16485](https://github.com/conda/conda/pull/16485) (merged), [#16499](https://github.com/conda/conda/pull/16499) (merged), [#16599](https://github.com/conda/conda/pull/16599) (open), [#16628](https://github.com/conda/conda/pull/16628) (open)
 
 ### ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) docker/docs
 
