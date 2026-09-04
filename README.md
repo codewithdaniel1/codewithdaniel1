@@ -46,7 +46,7 @@ Improved OpenCTI documentation and Python client examples across data ingestion,
 
 Improved PyPI documentation covering organization accounts, API token authentication, Twine credential handling, keyring integration, and Trusted Publishing.
 
-**PRs:** [#20346](https://github.com/pypi/warehouse/pull/20346) (merged), [#20352](https://github.com/pypi/warehouse/pull/20352) (open)
+**PRs:** [#20346](https://github.com/pypi/warehouse/pull/20346) (merged), [#20352](https://github.com/pypi/warehouse/pull/20352) (approved)
 
 ### ![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat&logo=owasp&logoColor=white) OWASP/CheatSheetSeries
 
