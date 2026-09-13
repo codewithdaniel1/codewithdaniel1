@@ -1,16 +1,16 @@
 # Hi, I'm Daniel! Creator of
 
 ## [Cyber Actor Atlas](https://cyberactoratlas.pages.dev/)
-I created Cyber Actor Atlas as an open-source map and downloadable dataset for exploring the publicly reported origins of cyber actors. It brings together cybercrime groups, financial fraud actors, crypto-crime actors, darknet market operators, hacktivist collectives, state-linked groups, access brokers, and selected defensive organizations to provide a clearer geographic view of the cyber threat landscape.
+Cyber Actor Atlas as an open-source map and downloadable dataset for exploring the publicly reported origins of cyber actors. It brings together cybercrime groups, financial fraud actors, crypto-crime actors, darknet market operators, hacktivist collectives, state-linked groups, access brokers, and selected defensive organizations to provide a clearer geographic view of the cyber threat landscape.
 
 ## [NowEDA (Published on PyPI)](https://pypi.org/project/noweda/)
-I created NowEDA, an open-source Python library that makes exploratory data analysis faster and more accessible for users who may not specialize in data science. Built around DataFrames, it helps users load datasets, generate summaries and insights, evaluate data quality, and detect patterns such as missing values, outliers, encoded fields, and potentially sensitive information with minimal setup.
+NowEDA, an open-source Python library that makes exploratory data analysis faster and more accessible for users who may not specialize in data science. Built around DataFrames, it helps users load datasets, generate summaries and insights, evaluate data quality, and detect patterns such as missing values, outliers, encoded fields, and potentially sensitive information with minimal setup.
 
 ## [CyberSLM](https://github.com/codewithdaniel1/CyberSLM)
-I created CyberSLM as a lightweight local small language model environment designed specifically for cybersecurity tasks. The project focuses on running cybersecurity-focused models locally for activities such as security analysis, CTF problem solving, vulnerability research, log analysis, and technical assistance while keeping data and model interactions on the user's own machine.
+CyberSLM is a lightweight local small language model environment designed specifically for cybersecurity tasks. The project focuses on running cybersecurity-focused models locally for activities such as security analysis, CTF problem solving, vulnerability research, log analysis, and technical assistance while keeping data and model interactions on the user's own machine.
 
 ## [CyberWorkbench](https://github.com/codewithdaniel1/CyberWorkbench)
-I created CyberWorkbench as an open-source cybersecurity toolkit and workspace that brings commonly used security utilities into a single interface. The project is designed to simplify workflows involving encoding and decoding, cryptography, data transformation, file analysis, network utilities, and other tasks frequently used by cybersecurity researchers, analysts, and CTF participants.
+CyberWorkbench is an open-source cybersecurity toolkit and workspace that brings commonly used security utilities into a single interface. The project is designed to simplify workflows involving encoding and decoding, cryptography, data transformation, file analysis, network utilities, and other tasks frequently used by cybersecurity researchers, analysts, and CTF participants.
 
 ## [Graph-Based Lateral Movement Detection](https://github.com/codewithdaniel1/lateral-movement-detection)
 I created this research project to evaluate whether graph-based anomaly detection can improve the identification of post-compromise lateral movement in enterprise authentication logs. Using 180,000 synthetic authentication events across 30 days, I compared a rule-based baseline with a graph-based model using edge novelty, path rarity, and host degree deviation, achieving higher precision and recall with a lower false-positive rate while detecting attack behavior aligned with MITRE ATT&CK T1078 and T1021.
