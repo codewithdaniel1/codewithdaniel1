@@ -78,6 +78,13 @@ Expanded logging architecture documentation with clearer coverage of default log
 - [**NYU OSIRIS Lab**](https://osiris.cyber.nyu.edu) — Contributed to private research lab repositories supporting cybersecurity research, CTF infrastructure, AI evaluation workflows, Official NYU tooling, and internal lab tooling.
 - **NYUSEC Team** - Competitor on the NYU Security CTF Team on [CTF Time](https://ctftime.org/team/439).
 
+# CTF Writeups
+
+I share challenge walkthroughs, original files, and recovered artifacts in my [CTF-Writeups repository](https://github.com/codewithdaniel1/CTF-Writeups). The writeups are readable on GitHub, with links to the rendered pages and the interactive CipherWiki archive on my website.
+
+- [BSidesNYC CTF (2026)](https://github.com/codewithdaniel1/CTF-Writeups/tree/main/writeups/2026/bsidesnyc-ctf) — Classified, Bots, and Compromised Source.
+- [JerseyCTF VI (2026)](https://github.com/codewithdaniel1/CTF-Writeups/tree/main/writeups/2026/jerseyCTF-vi) — Recovered Signal File, qaStaH nuq, Fix Your Ship, and Relay Artifact TX-7.
+
 # GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=codewithdaniel1&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
