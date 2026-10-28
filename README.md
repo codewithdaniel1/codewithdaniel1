@@ -19,7 +19,9 @@ I created this research project to evaluate whether graph-based anomaly detectio
 Explainable AML Transaction Monitoring Modeling is a machine learning research project focused on improving suspicious transaction detection while maintaining model transparency and interpretability. Using financial transaction data, the project compares Logistic Regression, XGBoost with SHAP, and Explainable Boosting Machines (EBM) to evaluate predictive performance and explainability. It explores historical transaction patterns, customer behavior, and feature engineering using time-based validation, precision-recall metrics, and feature importance analysis to investigate how explainable AI can support more effective anti-money laundering transaction monitoring.
 
 ## [Explainable Cyber Threat Defense Workbench](https://github.com/codewithdaniel1/Explainable-Cyber-Threat-Defense-Workbench)
-I built this research project to explore how explainable machine learning can help prioritize attack-labeled network flows in UNSW-NB15. It benchmarks readable detection rules, Isolation Forest anomaly scores, and connection-count signals alongside Logistic Regression, XGBoost, and Explainable Boosting Machines (EBM). The analysis compares held-out model performance and alert-volume tradeoffs, highlights missed attack categories, and uses feature explanations to make model behavior easier to inspect.
+An open-world network-flow triage benchmark on UNSW-NB15. It withholds one attack category from training at a time and compares known-risk scoring, normal-only novelty ranking, and a 75/25 two-lane queue at equal review budgets. The analysis measures held-out-category recall, known-category recall, precision, and benign review volume, with an interpretable XGBoost example.
+
+[Read the slide-style research briefing](https://github.com/codewithdaniel1/Explainable-Cyber-Threat-Defense-Workbench/blob/main/docs/Cyber_Threat_Defense_Expert_Briefing.pdf).
 
 
 # Tech Stack:
