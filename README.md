@@ -72,7 +72,7 @@ Improved Security Solution API documentation by clarifying the risks of deleting
 
 Improved extension development documentation for theme-aware CSS and fixed file browser context-menu paste behavior so files can be pasted directly into the selected folder.
 
-**PRs:** [#19230](https://github.com/jupyterlab/jupyterlab/pull/19230) (open), [#19282](https://github.com/jupyterlab/jupyterlab/pull/19282) (open)
+**PRs:** [#19230](https://github.com/jupyterlab/jupyterlab/pull/19230) (open), [#19282](https://github.com/jupyterlab/jupyterlab/pull/19282) (merged)
 
 ### ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white) apache/airflow
 
